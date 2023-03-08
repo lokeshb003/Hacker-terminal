@@ -3,16 +3,16 @@ const COMMANDS = {
   help:
     'Supported commands: <span class="code">about</span>, <span class="code">experience</span>, <span class="code">education</span>, <span class="code">skills</span>, <span class="code">certifications</span>, <span class="code">contact</span>',
   about:
-    "Cyber Security practitioner capable of strategizing, architecting, building and maturing cyber security initiatives. Passionate about analyzing cyber security risks and translating them to actionable countermeasures. 2+ years of working experience in Cyber Security domain. Currently doing Masters degree in Cybersecurity from Jain Deemed to be University (Bangalore, India) .",
+    "Hi! I am Lokesh Balaji. I love Cyber Security and Cloud Computing. I make Content about Automation in Linkedin Everyday or Every Weekend with Different Projects on Automation. Non-technically, I love Swimming and thats my hobby! Thank you! :)",
   skills:
-    "Ethical Hacking | Penetration Testing| Threat Hunting & Intelligence Analyst | Red Teaming",
+    "Ethical Hacking | Cloud Computing",
   education:
-    "MCA - Master of Computer Applications Specialization in Cyber Security Pursuing <br> BCA -  Bachelor of Computer Applications Specialization in Computer Applications",
-  experience:'<span class="code">Total experience: As a Math Tutor, Proctor, Content Creator for 2.5 Years At Focus Edumatics Private Limited </span><br> Security Researcher | Bug Hunter on the Various Platforms - Present<br> #1 Rank Researcher on the Hackenproof|Web3 Bug Bounty Platform<br> Top 15th Researcher on the Bugbounter <br> Top 43rd  Researcher on the Securebug <br> One of the Top 600 Researcher on the Intigriti <br> One of the Top 2100 Researcher on the Bugcrowd <br> Top 24th Researcher on Securebug',
+    "Finished my HSC 12th Board at Bethel Matriculation Higher Secondary School with 159/200 Cut off and 83% of Marks. <br> Btech - Artificial Intelligence and Data Science at Rajalakshmi Institute of Technology",
+  experience:'<span class="code"> - Present<br> Cyber Security Engineer at Spinacle Technologies Pvt Ltd. <br> Cyber Security Enthusiast <br> Cloud Compluting Enthusiast <br> Cyber Security Analyst at Melospiza',
   certifications: 
-    "CEH Version 11 - Certified Ethical Hacker<br> CPT - Certified Penetration Tester <br>",
+    "CEH | CSCU - Certified Ethical Hacker<br> CSCU - Certified Secure Computer User <br>",
   contact:
-    "You can contact me on Linkedin and or via the mail:<br><a href='https://www.linkedin.com/in/manojkumar-j-7ba35b202/' class='success link'>Linkedin</a>, <a href='mailto:testerheredaw@gmail.com' class='success link'>Email</a>,"
+    "You can contact me on Linkedin and or via the mail:<br><a href='https://www.linkedin.com/in/lokesh-balaji-2a1965200/' class='success link'>Linkedin</a>, <a href='mailto:testerheredaw@gmail.com' class='success link'>Email</a>,"
 };
 let userInput, terminalOutput;
 
